@@ -1,0 +1,13 @@
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Api.deps.json
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Api.runtimeconfig.json
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Api.runtimeconfig.dev.json
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Api.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Api.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Core.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Infrastructure.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\bin\Debug\netcoreapp1.1\Core.pdb
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\obj\Debug\netcoreapp1.1\Api.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\obj\Debug\netcoreapp1.1\Api.AssemblyInfo.cs
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\obj\Debug\netcoreapp1.1\Api.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Api\obj\Debug\netcoreapp1.1\Api.pdb

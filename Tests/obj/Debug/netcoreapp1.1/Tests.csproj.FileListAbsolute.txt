@@ -1,0 +1,5 @@
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests\bin\Debug\netcoreapp1.1\Tests.deps.json
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests\bin\Debug\netcoreapp1.1\Core.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests\bin\Debug\netcoreapp1.1\Infrastructure.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests\obj\Debug\netcoreapp1.1\Tests.AssemblyInfo.cs
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests\obj\Debug\netcoreapp1.1\Tests.csprojResolveAssemblyReference.cache

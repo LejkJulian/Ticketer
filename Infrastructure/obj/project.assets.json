@@ -2266,6 +2266,13 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        }
       }
     }
   },
@@ -7029,10 +7036,16 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v1.1": [
+      "Core >= 1.0.0",
       "Microsoft.NETCore.App >= 1.1.2"
     ]
   },
@@ -7052,7 +7065,11 @@
       ],
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Julian\\Documents\\Visual Studio 2017\\Projects\\Ticketer\\Api\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Julian\\Documents\\Visual Studio 2017\\Projects\\Ticketer\\Api\\Core\\Core.csproj"
+            }
+          }
         }
       }
     },

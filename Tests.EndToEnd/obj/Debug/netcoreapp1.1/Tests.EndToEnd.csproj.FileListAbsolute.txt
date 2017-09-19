@@ -1,0 +1,4 @@
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests.EndToEnd\bin\Debug\netcoreapp1.1\Tests.EndToEnd.deps.json
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests.EndToEnd\bin\Debug\netcoreapp1.1\Tests.EndToEnd.dll
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests.EndToEnd\obj\Debug\netcoreapp1.1\Tests.EndToEnd.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2017\Projects\Ticketer\Api\Tests.EndToEnd\obj\Debug\netcoreapp1.1\Tests.EndToEnd.AssemblyInfo.cs
